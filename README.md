@@ -3,6 +3,7 @@
 ## 📊 Project Overview  
 This project is an interactive R Shiny application designed to help users analyze stock performance, explore financial trends, and forecast future stock prices using machine learning.  
 It combines real-time market data, sentiment analysis, technical indicators, and predictive modeling to support smarter investment decisions.
+The dataset was obtained through web scraping in R to ensure up-to-date data.
 
 Users can:
 - View live and historical price charts  
